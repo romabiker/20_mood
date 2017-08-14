@@ -1,6 +1,6 @@
 # Site for the Mood
 
-[TODO. There will be project description]
+Laughter prolongs life and recharges our batteries. The site will try to bring you to hysterical laughter.
 
 # Project Goals
 
